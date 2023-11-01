@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'aimyri-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_675BC3C384844003A310DFB962FD0C89 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A8C2DFEDDCCD46FD8B57E14BACE385D1 }}
